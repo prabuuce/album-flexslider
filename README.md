@@ -1,2 +1,8 @@
 # album-slider
-Wordpress plugin to insert responsive slider and carousels from galleries in custom posts. 
+Wordpress plugin to insert a responsive slider and carousels from galleries in custom posts. 
+
+It is an extention of a simple plugin that integrates FlexSlider (http://flex.madebymufffin.com/) with WordPress using custom post types! 
+
+The simple plugin was developed based on instructions on the post at 
+
+http://code.tutsplus.com/articles/create-a-responsive-slider-plugin-with-flexslider-for-wordpress--wp-21839
