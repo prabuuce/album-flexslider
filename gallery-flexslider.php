@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Gallery FlexSlider
-Plugin URI: https://github.com/prabuuce/gallery-flexslider
+Plugin URI: https://github.com/prabuuce/gallery-flexslider/wiki
 Description: Wordpress plugin to insert responsive sliders and carousels from galleries. 
 Author: Bhagavath 'Kumar'
 Version: 1.0
